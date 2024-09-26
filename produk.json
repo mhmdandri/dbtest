@@ -1,0 +1,30 @@
+[
+  {
+    "sname": "Drill 0",
+    "createdAt": "2024-02-09 14:40:37",
+    "mpn": "MPN-17516",
+    "price_pre_tax": 2986200.0,
+    "brand": "Livi"
+  },
+  {
+    "sname": "Pliers 1",
+    "createdAt": "2023-10-11 13:47:51",
+    "mpn": "MPN-25446",
+    "price_pre_tax": 8613900.0,
+    "brand": "Tekiro"
+  },
+  {
+    "sname": "Screwdriver 2",
+    "createdAt": "2024-06-16 00:24:28",
+    "mpn": "MPN-48607",
+    "price_pre_tax": 1110450.0,
+    "brand": "Tekiro"
+  },
+  {
+    "sname": "Hammer 99",
+    "createdAt": "2023-12-20 22:54:12",
+    "mpn": "MPN-43471",
+    "price_pre_tax": 14356500.0,
+    "brand": "Ryu"
+  }
+]
