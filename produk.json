@@ -474,5 +474,229 @@
     "mpn": "MPN-35016",
     "price_pre_tax": 4213450.0,
     "brand": "Livi"
+  },
+  {
+    "sname": "Drill 68",
+    "createdAt": "2024-01-09 14:40:37",
+    "mpn": "MPN-17522",
+    "price_pre_tax": 1916200.0,
+    "brand": "Livi"
+  },
+  {
+    "sname": "Pliers 69",
+    "createdAt": "2023-12-11 13:47:51",
+    "mpn": "MPN-25431",
+    "price_pre_tax": 7623900.0,
+    "brand": "Tekiro"
+  },
+  {
+    "sname": "Screwdriver 70",
+    "createdAt": "2024-08-16 00:24:28",
+    "mpn": "MPN-48611",
+    "price_pre_tax": 1310450.0,
+    "brand": "Tekiro"
+  },
+  {
+    "sname": "Hammer 71",
+    "createdAt": "2024-11-21 16:35:59",
+    "mpn": "MPN-52532",
+    "price_pre_tax": 2705250.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Measuring Tape 72",
+    "createdAt": "2023-12-03 05:43:45",
+    "mpn": "MPN-82215",
+    "price_pre_tax": 8248950.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Sandpaper 73",
+    "createdAt": "2024-01-17 21:29:33",
+    "mpn": "MPN-57592",
+    "price_pre_tax": 2109750.0,
+    "brand": "Tekiro"
+  },
+  {
+    "sname": "Chisel 74",
+    "createdAt": "2023-02-09 03:58:12",
+    "mpn": "MPN-26021",
+    "price_pre_tax": 4287650.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Pliers 75",
+    "createdAt": "2024-05-03 03:43:18",
+    "mpn": "MPN-41125",
+    "price_pre_tax": 11498050.0,
+    "brand": "Livi"
+  },
+  {
+    "sname": "Sandpaper 76",
+    "createdAt": "2024-05-17 01:31:24",
+    "mpn": "MPN-65611",
+    "price_pre_tax": 4160050.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Cutter 77",
+    "createdAt": "2024-03-11 18:55:26",
+    "mpn": "MPN-43821",
+    "price_pre_tax": 13258750.0,
+    "brand": "Tekiro"
+  },
+  {
+    "sname": "Chisel 78",
+    "createdAt": "2024-05-04 23:05:01",
+    "mpn": "MPN-56416",
+    "price_pre_tax": 1286750.0,
+    "brand": "Tekiro"
+  },
+  {
+    "sname": "Grinder 79",
+    "createdAt": "2024-02-11 12:53:17",
+    "mpn": "MPN-38502",
+    "price_pre_tax": 3361950.0,
+    "brand": "Livi"
+  },
+  {
+    "sname": "Measuring Tape 80",
+    "createdAt": "2024-02-04 23:51:39",
+    "mpn": "MPN-87421",
+    "price_pre_tax": 2443300.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Saw 81",
+    "createdAt": "2024-04-16 14:34:03",
+    "mpn": "MPN-32231",
+    "price_pre_tax": 24279300.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Screwdriver 82",
+    "createdAt": "2024-10-28 00:50:51",
+    "mpn": "MPN-64533",
+    "price_pre_tax": 2131750.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Cutter 83",
+    "createdAt": "2023-10-12 18:48:32",
+    "mpn": "MPN-50274",
+    "price_pre_tax": 12122250.0,
+    "brand": "Livi"
+  },
+  {
+    "sname": "Measuring Tape 84",
+    "createdAt": "2024-01-07 06:28:03",
+    "mpn": "MPN-614132",
+    "price_pre_tax": 12899200.0,
+    "brand": "Livi"
+  },
+  {
+    "sname": "Grinder 85",
+    "createdAt": "2023-12-14 04:12:33",
+    "mpn": "MPN-86211",
+    "price_pre_tax": 1241300.0,
+    "brand": "Ryu"
+  },
+  {
+    "sname": "Wrench 86",
+    "createdAt": "2024-11-18 21:56:38",
+    "mpn": "MPN-12225",
+    "price_pre_tax": 11022000.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Hammer 87",
+    "createdAt": "2023-01-19 18:37:46",
+    "mpn": "MPN-36012",
+    "price_pre_tax": 13186350.0,
+    "brand": "Livi"
+  },
+  {
+    "sname": "Screwdriver 88",
+    "createdAt": "2023-13-08 01:23:12",
+    "mpn": "MPN-12213",
+    "price_pre_tax": 12822950.0,
+    "brand": "Livi"
+  },
+  {
+    "sname": "Saw 89",
+    "createdAt": "2023-10-16 02:28:53",
+    "mpn": "MPN-82632",
+    "price_pre_tax": 1424350.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Level 90",
+    "createdAt": "2024-10-06 08:57:12",
+    "mpn": "MPN-17018",
+    "price_pre_tax": 12330750.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Chisel 91",
+    "createdAt": "2024-11-19 03:09:09",
+    "mpn": "MPN-20162",
+    "price_pre_tax": 24678050.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Wrench 92",
+    "createdAt": "2024-04-26 16:34:02",
+    "mpn": "MPN-65991",
+    "price_pre_tax": 24405800.0,
+    "brand": "Bosch"
+  },
+  {
+    "sname": "Grinder 93",
+    "createdAt": "2024-04-18 04:49:23",
+    "mpn": "MPN-56510",
+    "price_pre_tax": 22003650.0,
+    "brand": "Ryu"
+  },
+  {
+    "sname": "Level 94",
+    "createdAt": "2023-07-06 08:49:18",
+    "mpn": "MPN-36226",
+    "price_pre_tax": 2006300.0,
+    "brand": "Ryu"
+  },
+  {
+    "sname": "Drill 95",
+    "createdAt": "2023-11-26 05:46:38",
+    "mpn": "MPN-69444",
+    "price_pre_tax": 10931850.0,
+    "brand": "Tekiro"
+  },
+  {
+    "sname": "Measuring Tape 96",
+    "createdAt": "2024-03-19 15:18:51",
+    "mpn": "MPN-54191",
+    "price_pre_tax": 4222100.0,
+    "brand": "Ryu"
+  },
+  {
+    "sname": "Cutter 97",
+    "createdAt": "2024-05-26 14:12:58",
+    "mpn": "MPN-21430",
+    "price_pre_tax": 1702000.0,
+    "brand": "Tekiro"
+  },
+  {
+    "sname": "Wrench 98",
+    "createdAt": "2023-07-01 08:49:40",
+    "mpn": "MPN-12306",
+    "price_pre_tax": 1716300.0,
+    "brand": "Ryu"
+  },
+  {
+    "sname": "Grinder 99",
+    "createdAt": "2023-10-12 10:39:31",
+    "mpn": "MPN-76830",
+    "price_pre_tax": 4290950.0,
+    "brand": "Livi"
   }
 ]
